@@ -1,8 +1,6 @@
-- 👋 Hi, I’m SAURAV and I've been a Data Engineer for the past 4 years
-- 👀 I believe DATA or the new age OIL is the key to making this world a better place
-- 🌱 Apart from Data Engineering, I’m also learning Data Analytics, Science and Security to have a throuhgh understanding of the domain
-- 💞️ Always open to collaborate on any interesting Data projects you may come across.
-- Feel free to seek my help out on any of these tools - AWS, Apache Airflow, AWS Redshift, Python & SQL
+- Hi, I’m SAURAV and I am a Data Engineer 👋
+- I've 4+ years of experience collaborating with multiple fortune 500 clients
+- Feel free to seek my help out on any of these tools - AWS, Apache Airflow, Apache Spark, AWS Redshift, Python & SQL
 - 📫 You can reach out to me via email - sudhirsaurav10@gmail.com
 
 <!---
